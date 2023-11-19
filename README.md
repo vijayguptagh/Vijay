@@ -1,8 +1,27 @@
+<--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
+<img src="[https://example.com/path/to/banner-image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fweb-development-coding-programming-futuristic-banner-computer-code-laptop_18719376.htm&psig=AOvVaw1JWlg29CDeBZKpzc7UI5fA&ust=1700475642075000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiIg8frz4IDFQAAAAAdAAAAABAE)" alt="Banner Image">
 
 <h1 align="center">Hii there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   I am Om Vijay
 </h1>
+
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=vijaygupta080304it@gmail.com)](vijaygupta080304it@gmail.com)
+<br><img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
+
+<!-- <p>
+<img src=https://komarev.com/ghpvc/?username=yuvrajrathod123 alt="Yuvraj Rathod" /> 
+</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayguptagh&label=Profile%20views&color=0e75b6&style=flat" alt="vijayguptagh" /> </p>
 
