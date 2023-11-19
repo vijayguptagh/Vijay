@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<img height="200" width='100vw' src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=1060" alt="Banner Image">
+<img height="200px" width='100vw' src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=1060" alt="Banner Image">
 
 <h1 align="center">Hii there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   I am Vijay B. Gupta
