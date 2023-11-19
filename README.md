@@ -12,16 +12,13 @@
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fweb-development-coding-programming-futuristic-banner-computer-code-laptop_18719376.htm&psig=AOvVaw1JWlg29CDeBZKpzc7UI5fA&ust=1700475642075000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiIg8frz4IDFQAAAAAdAAAAABAE" alt="Banner Image">
 
 <h1 align="center">Hii there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  I am Om Vijay
+  I am Vijay B. Gupta
 </h1>
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=vijaygupta080304it@gmail.com)](vijaygupta080304it@gmail.com)
 <br><img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
 
-<!-- <p>
-<img src=https://komarev.com/ghpvc/?username=yuvrajrathod123 alt="Yuvraj Rathod" /> 
-</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayguptagh&label=Profile%20views&color=0e75b6&style=flat" alt="vijayguptagh" /> </p>
 
@@ -31,7 +28,7 @@
 - 🏫 I'm currently studying at Don Bosco Institute of technology,Mumbai
 - 🌱 I’m currently learning **MERN Stack**
 
- <p align="right"> <img  width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="vijayguptagh" /> 
+ <img  align="right" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="vijayguptagh" /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
