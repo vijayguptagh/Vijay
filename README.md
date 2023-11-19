@@ -29,6 +29,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 
  <img  align="right" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="vijayguptagh" /> 
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
