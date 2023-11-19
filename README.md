@@ -17,7 +17,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=vijaygupta080304it@gmail.com)](vijaygupta080304it@gmail.com)
-<br><img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
+<br><img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" target="blank"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayguptagh&label=Profile%20views&color=0e75b6&style=flat" alt="vijayguptagh" /> </p>
@@ -28,7 +28,7 @@
 - 🏫 I'm currently studying at Don Bosco Institute of technology,Mumbai
 - 🌱 I’m currently learning **MERN Stack**
 
- <img    align="right" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="vijayguptagh" /> 
+ <img    align="center" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="vijayguptagh" /> 
  </p>
 
 <h3 align="left">Connect with me:</h3>
