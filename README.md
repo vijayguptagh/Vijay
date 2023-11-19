@@ -23,13 +23,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayguptagh&label=Profile%20views&color=0e75b6&style=flat" alt="vijayguptagh" /> </p>
 
 
-<p>
+
 - 🔭 Full Stack learner from India
 - 🏫 I'm currently studying at Don Bosco Institute of technology,Mumbai
 - 🌱 I’m currently learning **MERN Stack**
 
  <img    align="center" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="vijayguptagh" /> 
- </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
