@@ -12,7 +12,7 @@
 - 🏫 I'm currently studying at Don Bosco Institute of technology,Mumbai
 - 🌱 I’m currently learning **MERN Stack**
 
- <p align="center"> <img  width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="vijayguptagh" /> 
+ <p align="right"> <img  width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="vijayguptagh" /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
