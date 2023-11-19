@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Gupta</h1>
 
 
-<img align="right" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="vijayguptagh" /> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayguptagh&label=Profile%20views&color=0e75b6&style=flat" alt="vijayguptagh" /> </p>
 
@@ -12,6 +12,8 @@
 - 🔭 Full Stack learner from India
 - 🏫 I'm currently studying at Don Bosco Institute of technology,Mumbai
 - 🌱 I’m currently learning **MERN Stack**
+
+ <p align="center"> <img  width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="vijayguptagh" /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
