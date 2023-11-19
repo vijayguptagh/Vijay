@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fweb-development-coding-programming-futuristic-banner-computer-code-laptop_18719376.htm&psig=AOvVaw1JWlg29CDeBZKpzc7UI5fA&ust=1700475642075000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiIg8frz4IDFQAAAAAdAAAAABAE" alt="Banner Image">
+<img height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fweb-development-coding-programming-futuristic-banner-computer-code-laptop_18719376.htm&psig=AOvVaw1JWlg29CDeBZKpzc7UI5fA&ust=1700475642075000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiIg8frz4IDFQAAAAAdAAAAABAE" alt="Banner Image">
 
 <h1 align="center">Hii there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   I am Vijay B. Gupta
