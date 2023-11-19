@@ -25,11 +25,9 @@
 
 
 
-<p align="center">
-  - 🔭 Full Stack learner from India  <br>
-- 🏫 I'm currently studying at Don Bosco Institute of technology,Mumbai <br>
-- 🌱 I’m currently learning **MERN Stack** <br>
-</p>
+  - 🔭 Full Stack learner from India  
+- 🏫 I'm currently studying at Don Bosco Institute of technology,Mumbai 
+- 🌱 I’m currently learning **MERN Stack** 
 
  <img    align="center" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="vijayguptagh" /> 
 
