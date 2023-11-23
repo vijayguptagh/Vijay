@@ -13,7 +13,7 @@
 
 
 <h1 align="center">Hii there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  I am Vijay B. Gupta
+  I am Vijay Gupta
 </h1>
 
 
