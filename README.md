@@ -18,7 +18,7 @@
 </h1>
 
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=vijaygupta080304it@gmail.com)](vijaygupta080304it@gmail.com)
+[![vijaygupta080304it@gmail.com](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=vijaygupta080304it@gmail.com)](vijaygupta080304it@gmail.com)
 <br><img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" target="blank"/>
 
 
